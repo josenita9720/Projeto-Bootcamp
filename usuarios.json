@@ -1,0 +1,44 @@
+[
+    {
+        "nome": "José Nita",
+        "email": "jose@email.com",
+        "funcao": "Desenvolvedor",
+        "senha": "bc6f6f5e2b93a2cb8fa38645b2b05a692c3478fb971d5794f61b3e7b176385f3",
+        "nivel": "Administrador"
+    },
+    {
+        "nome": "Reginaldo",
+        "email": "reginaldo@email.com",
+        "funcao": "Desenvolvedor",
+        "senha": "PENDENTE",
+        "nivel": "Administrador"
+    },
+    {
+        "nome": "Wandressa",
+        "email": "wandressa@email.com",
+        "funcao": "Desenvolvedor",
+        "senha": "PENDENTE",
+        "nivel": "Administrador"
+    },
+    {
+        "nome": "Leonardo",
+        "email": "leonardo@email.com",
+        "funcao": "Desenvolvedor",
+        "senha": "PENDENTE",
+        "nivel": "Membro"
+    },
+    {
+        "nome": "Matheus",
+        "email": "matheus@email.com",
+        "funcao": "Desenvolvedor",
+        "senha": "PENDENTE",
+        "nivel": "Membro"
+    },
+    {
+        "nome": "Professor",
+        "email": "professor@email.com",
+        "funcao": "Visitante",
+        "senha": "PENDENTE",
+        "nivel": "Administrador"
+    }
+]
